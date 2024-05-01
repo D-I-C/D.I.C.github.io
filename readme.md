@@ -4,9 +4,6 @@ Il Department of Information Coding è strutturato in diverse sotto-unità, cias
 
 Technology Security Division *(TSD)*: Il TSD si impegna a proteggere i nostri sistemi informatici da minacce interne ed esterne, implementando le migliori pratiche di sicurezza informatica e monitorando costantemente le potenziali vulnerabilità.
 Code Enforcement Division *(CED)*: Il CED si assicura che tutto il codice sviluppato internamente rispetti gli standard di qualità e sicurezza definiti da GJDEV, garantendo che sia affidabile e sicuro.
-Application Research Division *(ARD)*: L'ARD si concentra sulla ricerca e lo sviluppo di applicazioni innovative per soddisfare le esigenze specifiche del nostro team e dei nostri clienti.
+Application Research Division *(ARD)*: L'ARD si concentra sulla ricerca e lo sviluppo di applicazioni innovative per soddisfare le esigenze specifiche del nostro team.
 Data Science Division *(DSD)*: Il DSD utilizza analisi avanzate per estrarre informazioni significative dai dati che raccogliamo, fornendo insights utili per il miglioramento dei nostri prodotti e servizi.
 Quality Assurance Division *(QAD)*: Il QAD si impegna a garantire la qualità del nostro codice attraverso una rigorosa attività di testing e controllo della qualità.
-Al Department of Information Coding, cerchiamo individui talentuosi come te, appassionati di codice e desiderosi di contribuire alla crescita e al successo di GJDEV. Se sei pronto per affrontare sfide stimolanti in un ambiente collaborativo e innovativo, il nostro reparto è il posto giusto per te.
-
-Non vediamo l'ora di accoglierti nel nostro team!
